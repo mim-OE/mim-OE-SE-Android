@@ -34,7 +34,7 @@ dependencies {
 }
 ```
 
-## Documentation
+<!-- ## Documentation -->
 
 <!-- `EdgeCore/EdgeClient` API reference documentation can be found  [here](https://mimikgit.github.io/cocoapod-EdgeCore/documentation/edgecore/edgeclient).
 
