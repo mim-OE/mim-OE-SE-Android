@@ -30,7 +30,7 @@ Then add the library dependency to your app-level `build.gradle`
 
 ```gradle
 dependencies {
-    implementation 'com.mimik.mim-oe-sdk-android:mim-oe-client-developer:3.13.1'
+    implementation 'com.mimik.mim-oe-sdk-android:mim-oe-client-developer:3.14.0.1'
 }
 ```
 
